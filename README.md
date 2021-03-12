@@ -1,6 +1,7 @@
 # MaxPark SDK
 
-SDK de comunicação com a placa controladora IAC-500, utilizando os recursos para sistema de controle de estacionamentos apelidado de MaxPark.
+SDK (Software Development Kit) para integração com o sistema de controle de estacionamentos MaxPark.
 
-Exemplo inicial está sendo disponibilizado em Delphi 7, agradeçemos aos colaboradores para disponibilizarem mais exemplos em outras linguagens.
+• O programa de demonstração "maxpark_demo" foi desenvolvido no Delphi 7. 
+• Além dos arquivos fontes do "maxpark_demo" também está disponível nesse repositório o compilado (executável) na pasta "bin", compatível com qualquer versão do Windows, 32 ou 64 bits.
 
