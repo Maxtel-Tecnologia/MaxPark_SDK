@@ -1,2 +1,2 @@
-# maxpark_exemplo_d7_v2
-MaxPark Exemplo Delphi 7 V2
+# maxpark_demo_v2.1
+MaxPark Demonstração em Delphi 7 - V2.1
